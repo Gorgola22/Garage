@@ -1,0 +1,3 @@
+cd "moverse entre carpeta
+dir "que hay dentro de la carpeta
+mkdir "crea carpeta
