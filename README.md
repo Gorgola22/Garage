@@ -7,7 +7,7 @@ Normalmente serán ppt, papers, fotos de la competencia, etc.
 1.- Primero, ya ubicado en este repositorio deberás copiar el link URL (clonar).
 2.- Ingresas a la carpeta de tu computador donde deseas tener este repositorio.
 3.- Ingresas arriba en la ruta de la carpeta "cmd".
-4.- Allí colocas el comando >git clone www.github... #Lo último es el link del repo.
+4.- Allí colocas el comando >git clone https://github.com/Gorgola22/Garage.git #Lo último es el link del repo.
 
 ## INSTRUCCIONES DE USO
 1.- git add (nombre de archivo.extensión) #Agregas un archivo para que suba onlinemente al repo (para que todos tengan acceso a él)
