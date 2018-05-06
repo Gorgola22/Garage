@@ -10,6 +10,7 @@ Normalmente serán ppt, papers, fotos de la competencia, etc.
 4. Allí colocas el comando >git clone https://github.com/Gorgola22/Garage.git #Lo último es el link del repo.
 
 ## INSTRUCCIONES DE USO
+0. Ingresas arriba en la ruta de la carpeta "cmd" para poder ingresar las líneas de comando.
 1. git add (nombre de archivo.extensión) #Agregas un archivo para que suba onlinemente al repo (para que todos tengan acceso a él)
 2. git commit -m "(mensaje)" #Prepara archivo para ser enviado. El mensaje lo categoriza (ocasión, razón, etc. para poder saber de que trata)
 3. git push #Lo sube finalmente a github.
